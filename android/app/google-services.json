@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "727734347697",
+    "project_id": "studio-next-light",
+    "storage_bucket": "studio-next-light.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727734347697:android:1bbdf34d0b9d4679c43f90",
+        "android_client_info": {
+          "package_name": "com.starwish.student_managment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727734347697-4h5j2e1d3jdi2bpkiq7qe8sseepq742r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starwish.student_managment_app",
+            "certificate_hash": "8fff8a6b7e83c3305ce4c467bcd70e77d366d6ea"
+          }
+        },
+        {
+          "client_id": "727734347697-g3m3j57ffvbaed2tipje70hdl0rt643u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starwish.student_managment_app",
+            "certificate_hash": "c309cfd2d2fffc93a1dce3685655b49e8a0bb963"
+          }
+        },
+        {
+          "client_id": "727734347697-h9hd43vup1ckms0kfjln4fi3c6mrqov3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starwish.student_managment_app",
+            "certificate_hash": "a3226326da87596c5419e875cf5ad898dfdb3899"
+          }
+        },
+        {
+          "client_id": "727734347697-c1us15qf1ak9m4dvfr449q7am2ip8sca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2kHM3_X0ONDGMTkWBqdlp_WpWksUpxyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727734347697-c1us15qf1ak9m4dvfr449q7am2ip8sca.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727734347697-237oud1p2hbrkeraf6dkq93qebkgv87i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.starwish.studentNextLightsBus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727734347697:android:128c84d04c31a7bbc43f90",
+        "android_client_info": {
+          "package_name": "com.starwish.student_next_lights_bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727734347697-c1us15qf1ak9m4dvfr449q7am2ip8sca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2kHM3_X0ONDGMTkWBqdlp_WpWksUpxyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727734347697-c1us15qf1ak9m4dvfr449q7am2ip8sca.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727734347697-237oud1p2hbrkeraf6dkq93qebkgv87i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.starwish.studentNextLightsBus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
