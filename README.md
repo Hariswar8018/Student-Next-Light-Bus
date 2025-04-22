@@ -1,16 +1,46 @@
-# student_next_lights_bus
+# Student Next Lights Bus
 
-A new Flutter project.
+**A modern bus tracking and management solution tailored for schools.**  
 
-## Getting Started
+This project provides a seamless experience for tracking school buses, creating routes, scanning students, marking attendance via QR code, and more. Designed with efficiency and usability in mind.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Project Details
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Project Name:** Student Next Lights Bus  
+- **Made for (Owner):** Jawahar Ram  
+- **Owner Email:** [nextlight000@gmail.com](mailto:nextlight000@gmail.com)  
+- **Owner Phone:** +91-7000994158  
+- **First Published:** April 2025  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Google Play:** [Student Next Lights Bus on Google Play](https://play.google.com/store/apps/details?id=com.starwish.student_next_lights_bus)  
+
+---
+
+## Features
+
+- **Bus Tracking:** Track the real-time location of school buses.  
+- **Route Management:** Create and manage routes efficiently.  
+- **Student Scanning:** Scan students using QR codes.  
+- **Attendance Marking:** Mark attendance directly through QR scan.  
+- **Student Overview:** View details of students assigned to each bus.  
+- **User-Friendly:** Intuitive and easy-to-use interface.
+
+---
+
+## Technologies Used
+
+- **Flutter:** Cross-platform app development.  
+- **Firebase Firestore:** Backend database for data management.  
+- **Google Maps API:** Real-time bus tracking and route visualization.  
+
+---
+
+## Installation and Setup
+
+Follow these steps to set up the project locally:
+
+1. **Clone the Repository:**  
+   ```bash
+   git clone https://github.com/your-username/student-next-lights-bus.git
